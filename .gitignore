@@ -1,0 +1,14 @@
+# file
+VotingProj.docx
+
+# Vue
+voting-proj-vite/node_modules/
+
+# Spring
+voting-proj-spring/target/
+voting-proj-spring/*.jar
+voting-proj-spring/src/main/resources/application.properties
+
+# DB Schema and Data
+DB/schema.sql
+DB/data.sql
